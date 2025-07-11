@@ -1,0 +1,1 @@
+{ "name": "Loklokqu providers repository", "description": "Providers from all country", "manifestVersion": 1, "pluginLists": [ "https://raw.githubusercontent.com/ibuibuu/cloud/refs/heads/main/plugtwo.json" ] }
