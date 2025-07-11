@@ -1,0 +1,90 @@
+[
+    { "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.nl&sz=%size%", "apiVersion": 1, "repositoryUrl": "https://github.com/TeKuma25/IndoStream", "fileSize": 20856, "status": 1, "language": "id", "authors": [ "Hexated", "TeKuma25" ], "tvTypes": [ "AsianDrama", "Movie" ], "version": 13, "internalName": "Dramaid", "description": "Include: Oppadrama", "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Dramaid.cs3", "name": "Dramaid" 
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=loklok.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 33338,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 26,
+        "internalName": "Loklok",
+        "description": "#2 best extension based on Loklok API",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Loklok.cs3",
+        "name": "Loklok"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=lk21official.org&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 16199,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 14,
+        "internalName": "LayarKacaProvider",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/LayarKacaProvider.cs3",
+        "name": "LayarKacaProvider"
+    },
+{
+        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 295484,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 153,
+        "internalName": "SoraStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
+        "name": "SoraStream"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.xyz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 12103,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Cartoon",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Dubbindo",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Dubbindo.cs3",
+        "name": "Dubbindo"
+    } 
+]
